@@ -10,3 +10,4 @@
 - [CardStackView: Tinder like swipeable card view for Android](https://github.com/yuyakaido/CardStackView)
 - [Rename package in Android Studio](https://stackoverflow.com/questions/16804093/rename-package-in-android-studio)
 - [8 Facts About The Neuroscience Of Storytelling](https://www.story2.com/blog/8-facts-about-the-neuroscience-of-storytelling)
+- [Ideation to Creation(Build log for lion’s club app)](https://aradh.co/app-for-charity-344057484e0b)
