@@ -13,3 +13,4 @@
 - [Ideation to Creation(Build log for lion’s club app)](https://aradh.co/app-for-charity-344057484e0b)
 - [Select and extract data/URL/image/HTML](https://www.octoparse.com/tutorial-7/extract-data)
 - [Scrapy vs BeautifulSoup – Which is Better for You?(Web scraping tools)](https://smartproxy.com/blog/scrapy-vs-beautifulsoup)
+- [Python Web Scraping & Crawling using Scrapy](https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t)
