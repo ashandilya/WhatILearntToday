@@ -11,3 +11,5 @@
 - [Rename package in Android Studio](https://stackoverflow.com/questions/16804093/rename-package-in-android-studio)
 - [8 Facts About The Neuroscience Of Storytelling](https://www.story2.com/blog/8-facts-about-the-neuroscience-of-storytelling)
 - [Ideation to Creation(Build log for lion’s club app)](https://aradh.co/app-for-charity-344057484e0b)
+- [Select and extract data/URL/image/HTML](https://www.octoparse.com/tutorial-7/extract-data)
+- [Scrapy vs BeautifulSoup – Which is Better for You?(Web scraping tools)](https://smartproxy.com/blog/scrapy-vs-beautifulsoup)
