@@ -14,3 +14,6 @@
 - [Select and extract data/URL/image/HTML](https://www.octoparse.com/tutorial-7/extract-data)
 - [Scrapy vs BeautifulSoup – Which is Better for You?(Web scraping tools)](https://smartproxy.com/blog/scrapy-vs-beautifulsoup)
 - [Python Web Scraping & Crawling using Scrapy](https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t)
+- [Writing for Software Developers[]Book](https://gumroad.com/l/uZPZU/)
+- [Paid Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms)
+
