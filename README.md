@@ -22,5 +22,5 @@
 - [How To Create A GitHub Profile README](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme)
 - [MONICA POWELL[Personal Blog Inspiration]](https://www.aboutmonica.com/)
 - [Learn the best tools and frameworks from industry pros.](https://egghead.io/)
-- [Blog Post Flow(Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme)(https://github.com/gautamkrishnar/blog-post-workflow)
+- [Blog Post Flow Repository[Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme](https://github.com/gautamkrishnar/blog-post-workflow)
 
