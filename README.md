@@ -16,4 +16,10 @@
 - [Python Web Scraping & Crawling using Scrapy](https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t)
 - [Writing for Software Developers[]Book](https://gumroad.com/l/uZPZU/)
 - [Paid Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms)
+- [I am helping thousands of dev bloggers attain creative freedom with Hashnode[]Read Comments](https://hashnode.com/post/i-am-helping-thousands-of-dev-bloggers-attain-creative-freedom-with-hashnode-i-am-sandeep-panda-ask-me-anything-ckevuvvp4026bnzs143a5c2rd)
+- [Unlimited access to a curated library from the world’s best tech publishers](https://www.sitepoint.com/)
+- [Finding and Validating Ideas[Writing]](https://philipkiely.com/assets/files/wfsd_chapter1_sample.pdf?_ga=2.183563686.1691563699.1605671917-484075323.1603749376)
+- [How To Create A GitHub Profile README](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme)
+- [MONICA POWELL[Personal Blog Inspiration]](https://www.aboutmonica.com/)
+- [Learn the best tools and frameworks from industry pros.](https://egghead.io/)
 
