@@ -24,4 +24,5 @@
 - [Learn the best tools and frameworks from industry pros.](https://egghead.io/)
 - [Blog Post Flow Repository(Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme)](https://github.com/gautamkrishnar/blog-post-workflow)
 - [Top 5 Image Loading Libraries in Android](https://www.geeksforgeeks.org/top-5-image-loading-libraries-in-android/)
+- [A Modular Android App and Dynamic Delivery](https://medium.com/kayvan-kaseb/a-modular-android-app-and-dynamic-delivery-6fca533763e5)
 
