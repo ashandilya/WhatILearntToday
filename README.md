@@ -28,3 +28,11 @@
 - [The Medium Model](https://blog.medium.com/the-medium-model-3ec28c6f603a)
 - [Listen to free audio atmospheres. Mix your own ambient sound online](https://www.ambient-mixer.com/)
 
+
+# Tools
+
+- [Hyperfury(The tool to grow & monetize your Twitter audience)](https://hypefury.com/)
+- [Transistor(Your podcast's publishing platform)](https://transistor.fm/)
+- [Upside(The first podcast finding upside outside of Silicon Valley.)](https://upside.fm/)
+
+
