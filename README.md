@@ -30,6 +30,8 @@
 - [Native Apps, Web Apps or Hybrid Apps? What’s the Difference](https://www.mobiloud.com/blog/native-web-or-hybrid-apps)
 - Code Smell: In computer programming, a code smell is any characteristic in the source code of a program that possibly indicates a deeper problem. Determining what is and is not a code smell is subjective, and varies by language, developer, and development methodology.
 
+- [Top Questions(Stackoverflow)](https://stackoverflow.com/?tab=hot)
+
 
 # Tools
 
@@ -40,5 +42,6 @@
 - [RemoteOk(Find Remote Jobs)](https://remoteok.io/)
 - [RemoteLeads(Get Remote Job Leads directly into your mail box)](https://remoteleads.io/)
 - [Employ Remotely](https://www.employremotely.com/)
+- [Language Tool(Proof Reading Software)](https://www.languagetool.org/)
 
 
