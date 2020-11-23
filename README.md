@@ -28,6 +28,7 @@
 - [The Medium Model](https://blog.medium.com/the-medium-model-3ec28c6f603a)
 - [Listen to free audio atmospheres. Mix your own ambient sound online](https://www.ambient-mixer.com/)
 - [Native Apps, Web Apps or Hybrid Apps? What’s the Difference](https://www.mobiloud.com/blog/native-web-or-hybrid-apps)
+- Code Smell: In computer programming, a code smell is any characteristic in the source code of a program that possibly indicates a deeper problem. Determining what is and is not a code smell is subjective, and varies by language, developer, and development methodology.
 
 
 # Tools
