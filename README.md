@@ -44,4 +44,5 @@
 - [Employ Remotely](https://www.employremotely.com/)
 - [Language Tool(Proof Reading Software)](https://www.languagetool.org/)
 - [Software Engineering Podcast](https://www.software-engineering-unlocked.com/)
+- [Daily Dev(The easiest way to stay updated on the latest programming news)](https://daily.dev/)
 
