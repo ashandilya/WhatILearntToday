@@ -28,6 +28,10 @@
 - [The Medium Model](https://blog.medium.com/the-medium-model-3ec28c6f603a)
 - [Listen to free audio atmospheres. Mix your own ambient sound online](https://www.ambient-mixer.com/)
 - [Native Apps, Web Apps or Hybrid Apps? What’s the Difference](https://www.mobiloud.com/blog/native-web-or-hybrid-apps)
+- [Naval Ravikant's Guide To Choosing Your First Job In Tech](https://angel.co/blog/naval-ravikants-guide-to-choosing-your-first-job-in-tech)
+- [‘Zoom University’: is college worth the cost without the in-person experience?](https://www.theguardian.com/world/2020/oct/06/zoom-university-college-cost-students-in-person-experience)
+- []()
+- []()
 - Code Smell: In computer programming, a code smell is any characteristic in the source code of a program that possibly indicates a deeper problem. Determining what is and is not a code smell is subjective, and varies by language, developer, and development methodology.
 
 - [Top Questions(Stackoverflow)](https://stackoverflow.com/?tab=hot)
@@ -45,4 +49,6 @@
 - [Language Tool(Proof Reading Software)](https://www.languagetool.org/)
 - [Software Engineering Podcast](https://www.software-engineering-unlocked.com/)
 - [Daily Dev(The easiest way to stay updated on the latest programming news)](https://daily.dev/)
+- [Spearhead($1M for Founders to Start Investing)](https://spearhead.co/)
+- [Small Case(With smallcases, you can build a low cost, diversified & long-term investment portfolio.)](https://www.smallcase.com/)
 
