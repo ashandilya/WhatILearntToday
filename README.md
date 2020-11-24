@@ -57,3 +57,10 @@
 # Software Developement Topic's Blogs
 
 - [James Mantemagno(Mobile Developer @Microsoft)](https://montemagno.com/)
+
+
+# Project Ideas
+
+- [Project Ideas](https://gist.githubusercontent.com/tsaqib/9a8ded18603881b76a8f/raw/44f0387edf3633d6e6beea6ceeba28ca198d9712/ideas.md)
+- [Some cool ideas](https://www.quora.com/What-are-some-cool-ideas-for-a-hackathon-I-have-to-code-and-deliver-the-project-in-two-days-Any-ideas-to-get-the-creative-juices-flowing-You-will-be-credited-if-I-use-your-idea)
+- [Hackathon Project Ideas](https://blog.0xproject.com/0x-at-ethnewyork-43e0bbd78422)
