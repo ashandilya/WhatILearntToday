@@ -35,6 +35,7 @@
 - Code Smell: In computer programming, a code smell is any characteristic in the source code of a program that possibly indicates a deeper problem. Determining what is and is not a code smell is subjective, and varies by language, developer, and development methodology.
 
 - [Top Questions(Stackoverflow)](https://stackoverflow.com/?tab=hot)
+- [AirBnb Design](https://airbnb.design/)
 
 
 # Tools
@@ -52,3 +53,7 @@
 - [Spearhead($1M for Founders to Start Investing)](https://spearhead.co/)
 - [Small Case(With smallcases, you can build a low cost, diversified & long-term investment portfolio.)](https://www.smallcase.com/)
 
+
+# Software Developement Topic's Blogs
+
+- [James Mantemagno(Mobile Developer @Microsoft)](https://montemagno.com/)
