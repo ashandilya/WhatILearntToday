@@ -52,6 +52,7 @@
 - [Daily Dev(The easiest way to stay updated on the latest programming news)](https://daily.dev/)
 - [Spearhead($1M for Founders to Start Investing)](https://spearhead.co/)
 - [Small Case(With smallcases, you can build a low cost, diversified & long-term investment portfolio.)](https://www.smallcase.com/)
+- [Compile and execute your hand-written code directly](https://github.com/Ctrl-plus-C/wmn19)
 
 
 # Software Developement Topic's Blogs
