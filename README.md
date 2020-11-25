@@ -3,10 +3,34 @@
 
 ![Title Image](https://i.ibb.co/DDVJqwg/EVERYTHING.png)
 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
 
-<button name="button">Click me</button>
+.button1 {background-color: #4CAF50;} /* Green */
+.button2 {background-color: #008CBA;} /* Blue */
+</style>
+</head>
+<body>
 
-<a href="https://www.youtube.com/watch?v=Mg-DM5XAddk&ab_channel=TechWithAman" class="button">button text</a> 
+<button class="button button1">Green</button>
+<button class="button button2">Blue</button>
+
+</body>
+</html>
+
 
 - [Creating Multi Module project in Android Studio](https://www.youtube.com/watch?v=Mg-DM5XAddk&ab_channel=TechWithAman)
 - [Resize Image in GitHub readme](https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-using-markdown#:~:text=Old%20Answer%3A%201%20Make%20a%20gist%2C%20say%20Mygist.md,Cut-paste%20that%20by%20hand%20into%20your%20Mygist.md.%20)
