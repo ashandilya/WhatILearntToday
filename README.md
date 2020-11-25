@@ -28,10 +28,7 @@
 - [The Medium Model](https://blog.medium.com/the-medium-model-3ec28c6f603a)
 - [Listen to free audio atmospheres. Mix your own ambient sound online](https://www.ambient-mixer.com/)
 - [Native Apps, Web Apps or Hybrid Apps? What’s the Difference](https://www.mobiloud.com/blog/native-web-or-hybrid-apps)
-- [Naval Ravikant's Guide To Choosing Your First Job In Tech](https://angel.co/blog/naval-ravikants-guide-to-choosing-your-first-job-in-tech)
-- [‘Zoom University’: is college worth the cost without the in-person experience?](https://www.theguardian.com/world/2020/oct/06/zoom-university-college-cost-students-in-person-experience)
-- []()
-- []()
+
 - Code Smell: In computer programming, a code smell is any characteristic in the source code of a program that possibly indicates a deeper problem. Determining what is and is not a code smell is subjective, and varies by language, developer, and development methodology.
 
 - [Top Questions(Stackoverflow)](https://stackoverflow.com/?tab=hot)
@@ -65,3 +62,13 @@
 - [Project Ideas](https://gist.githubusercontent.com/tsaqib/9a8ded18603881b76a8f/raw/44f0387edf3633d6e6beea6ceeba28ca198d9712/ideas.md)
 - [Some cool ideas](https://www.quora.com/What-are-some-cool-ideas-for-a-hackathon-I-have-to-code-and-deliver-the-project-in-two-days-Any-ideas-to-get-the-creative-juices-flowing-You-will-be-credited-if-I-use-your-idea)
 - [Hackathon Project Ideas](https://blog.0xproject.com/0x-at-ethnewyork-43e0bbd78422)
+
+
+# Read Later
+
+- [Android Image Gallery Example App using Glide Library](https://javapapers.com/android/android-image-gallery-example-app-using-glide-library/)
+- [Naval Ravikant's Guide To Choosing Your First Job In Tech](https://angel.co/blog/naval-ravikants-guide-to-choosing-your-first-job-in-tech)
+- [‘Zoom University’: is college worth the cost without the in-person experience?](https://www.theguardian.com/world/2020/oct/06/zoom-university-college-cost-students-in-person-experience)
+- [Null Pointer References: The Billion Dollar Mistake](https://hinchman-amanda.medium.com/null-pointer-references-the-billion-dollar-mistake-1e616534d485)
+- [Top Examples Of Popular Apps Built With Kotlin](https://www.spec-india.com/blog/top-apps-built-with-kotlin)
+- [Making our Android Studio Apps Reactive with UI Components & Redux](https://netflixtechblog.com/making-our-android-studio-apps-reactive-with-ui-components-redux-5e37aac3b244)
