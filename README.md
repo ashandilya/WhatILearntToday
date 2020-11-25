@@ -52,6 +52,9 @@
 - [Markdown Editor](https://stackedit.io/)
 - [Markdown Editor](https://markdown-editor.github.io/)
 - [Hemingway Editor(Hemingway App makes your writing bold and clear.)](http://www.hemingwayapp.com/)
+- [ReadList(Every link you find interesting, ready and waiting for you.)](https://getreadlist.com/)
+- [Coda(The doc that brings words, data, & teams together.)](https://coda.io/welcome)
+- [NewYork Times Article API(Search Times articles from 1851 to today, retrieving headlines, abstracts and links to associated multimedia.)](https://developers.nytimes.com/)
 
 
 # Developer's Blogs
@@ -59,6 +62,7 @@
 - [James Mantemagno(Mobile Developer @Microsoft)](https://montemagno.com/)
 - [AarogyaSetu Blog](https://medium.com/aarogyasetu)
 - [Niharika Aarora(SDE 1MG)](https://thedroidlady.com/)
+- [ReadList(The Place on Web To Find Reading Lists on Any Topic)](https://coda.io/@ankit-kumar/read-list)
 
 
 # Project Ideas
