@@ -53,9 +53,11 @@
 - [Compile and execute your hand-written code directly](https://github.com/Ctrl-plus-C/wmn19)
 
 
-# Software Developement Topic's Blogs
+# Developer's Blogs
 
 - [James Mantemagno(Mobile Developer @Microsoft)](https://montemagno.com/)
+- [AarogyaSetu Blog](https://medium.com/aarogyasetu)
+- [Niharika Aarora(SDE 1MG)](https://thedroidlady.com/)
 
 
 # Project Ideas
