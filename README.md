@@ -51,6 +51,7 @@
 - [Compile and execute your hand-written code directly](https://github.com/Ctrl-plus-C/wmn19)
 - [Markdown Editor](https://stackedit.io/)
 - [Markdown Editor](https://markdown-editor.github.io/)
+- [Hemingway Editor(Hemingway App makes your writing bold and clear.)](http://www.hemingwayapp.com/)
 
 
 # Developer's Blogs
