@@ -55,7 +55,8 @@
 - [ReadList(Every link you find interesting, ready and waiting for you.)](https://getreadlist.com/)
 - [Coda(The doc that brings words, data, & teams together.)](https://coda.io/welcome)
 - [NewYork Times Article API(Search Times articles from 1851 to today, retrieving headlines, abstracts and links to associated multimedia.)](https://developers.nytimes.com/)
-
+- [Open Doodles(A Free Set of Sketchy Illustrations)](https://www.opendoodles.com/)
+- [Awesome Technical Writing(A curated list of awesome resources : articles, books, videos, tools, podcasts about technical writing)](https://github.com/BolajiAyodeji/awesome-technical-writing)
 
 # Developer's Blogs
 
@@ -63,6 +64,14 @@
 - [AarogyaSetu Blog](https://medium.com/aarogyasetu)
 - [Niharika Aarora(SDE 1MG)](https://thedroidlady.com/)
 - [ReadList(The Place on Web To Find Reading Lists on Any Topic)](https://coda.io/@ankit-kumar/read-list)
+
+# Software Development Podcasts
+
+- [Software Engineering Daily](https://softwareengineeringdaily.com/)
+- [The Change Log](https://changelog.com/podcast)
+- [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
+
+
 
 
 # Project Ideas
