@@ -33,6 +33,7 @@
 
 - [Top Questions(Stackoverflow)](https://stackoverflow.com/?tab=hot)
 - [AirBnb Design](https://airbnb.design/)
+- [Apps Mockup Tutorials()](https://help.mockplus.com/p/140)
 
 
 # Tools
@@ -58,6 +59,7 @@
 - [NewYork Times Article API(Search Times articles from 1851 to today, retrieving headlines, abstracts and links to associated multimedia.)](https://developers.nytimes.com/)
 - [Open Doodles(A Free Set of Sketchy Illustrations)](https://www.opendoodles.com/)
 - [Awesome Technical Writing(A curated list of awesome resources : articles, books, videos, tools, podcasts about technical writing)](https://github.com/BolajiAyodeji/awesome-technical-writing)
+- [Collection of Beautiful IOS App Designs](https://screenlane.com/)
 
 # Developer's Blogs
 
@@ -65,6 +67,7 @@
 - [AarogyaSetu Blog](https://medium.com/aarogyasetu)
 - [Niharika Aarora(SDE 1MG)](https://thedroidlady.com/)
 - [ReadList(The Place on Web To Find Reading Lists on Any Topic)](https://coda.io/@ankit-kumar/read-list)
+- [Roadmap](https://roadmap.sh/)
 
 # Software Development Podcasts
 
@@ -91,4 +94,4 @@
 - [Top Examples Of Popular Apps Built With Kotlin](https://www.spec-india.com/blog/top-apps-built-with-kotlin)
 - [Making our Android Studio Apps Reactive with UI Components & Redux](https://netflixtechblog.com/making-our-android-studio-apps-reactive-with-ui-components-redux-5e37aac3b244)
 - [Designing Application for Illiterate and Semi Illiterate Users ( India specific): DOCPORTAL App](https://medium.com/@sangramjit/designing-application-for-illiterate-and-semi-illiterate-users-india-specific-docportal-app-d6a313498799)
-- []()
+- [Exploring Server-Driven UI](https://medium.com/better-programming/exploring-server-driven-ui-cf67b3da919)
