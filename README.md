@@ -28,6 +28,7 @@
 - [Listen to free audio atmospheres. Mix your own ambient sound online](https://www.ambient-mixer.com/)
 - [Native Apps, Web Apps or Hybrid Apps? What’s the Difference](https://www.mobiloud.com/blog/native-web-or-hybrid-apps)
 - [My Preferred Method of Learning Backend Engineering Technologies(Hussein Nasser)](https://www.youtube.com/watch?v=4NsWnT_-FoE&ab_channel=HusseinNasser)
+- [Make your App Production Ready with Niharika Arora](https://www.youtube.com/watch?v=OuafF5Q_qUg&ab_channel=KotlinKolkata)
 
 - Code Smell: In computer programming, a code smell is any characteristic in the source code of a program that possibly indicates a deeper problem. Determining what is and is not a code smell is subjective, and varies by language, developer, and development methodology.
 
@@ -68,6 +69,8 @@
 - [Niharika Aarora(SDE 1MG)](https://thedroidlady.com/)
 - [ReadList(The Place on Web To Find Reading Lists on Any Topic)](https://coda.io/@ankit-kumar/read-list)
 - [Roadmap](https://roadmap.sh/)
+- [Honey Sonwani](https://mshoneysonwani.wordpress.com/)
+- []()
 
 # Software Development Podcasts
 
