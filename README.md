@@ -29,6 +29,7 @@
 - [Native Apps, Web Apps or Hybrid Apps? What’s the Difference](https://www.mobiloud.com/blog/native-web-or-hybrid-apps)
 - [My Preferred Method of Learning Backend Engineering Technologies(Hussein Nasser)](https://www.youtube.com/watch?v=4NsWnT_-FoE&ab_channel=HusseinNasser)
 - [Make your App Production Ready with Niharika Arora](https://www.youtube.com/watch?v=OuafF5Q_qUg&ab_channel=KotlinKolkata)
+- [Android — RecyclerView and Volley](https://medium.com/@sidhanth/android-recyclerview-and-volley-c6458cc65cd)
 
 - Code Smell: In computer programming, a code smell is any characteristic in the source code of a program that possibly indicates a deeper problem. Determining what is and is not a code smell is subjective, and varies by language, developer, and development methodology.
 
@@ -62,6 +63,11 @@
 - [Awesome Technical Writing(A curated list of awesome resources : articles, books, videos, tools, podcasts about technical writing)](https://github.com/BolajiAyodeji/awesome-technical-writing)
 - [Collection of Beautiful IOS App Designs](https://screenlane.com/)
 
+# Error [Android]
+
+- [D/tag: onErrorResponse: java.io.IOException: Cleartext HTTP traffic to 192.168.31.113 not permitted](https://stackoverflow.com/questions/45940861/android-8-cleartext-http-traffic-not-permitted)
+- []()
+
 # Developer's Blogs
 
 - [James Mantemagno(Mobile Developer @Microsoft)](https://montemagno.com/)
@@ -70,7 +76,7 @@
 - [ReadList(The Place on Web To Find Reading Lists on Any Topic)](https://coda.io/@ankit-kumar/read-list)
 - [Roadmap](https://roadmap.sh/)
 - [Honey Sonwani](https://mshoneysonwani.wordpress.com/)
-- []()
+- [Rami Shashati(Software engineer, specializing in JavaScript and Vue.js)](https://ramigs.dev/)
 
 # Software Development Podcasts
 
