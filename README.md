@@ -63,10 +63,12 @@
 - [Awesome Technical Writing(A curated list of awesome resources : articles, books, videos, tools, podcasts about technical writing)](https://github.com/BolajiAyodeji/awesome-technical-writing)
 - [Collection of Beautiful IOS App Designs](https://screenlane.com/)
 - [Awesome Hashtag Generator](https://www.all-hashtag.com/index.php)
+- [AndroidExample365(Explained Blogs of Amazing Android Libraries))](https://androidexample365.com/)
+- [Open Book Library[API DOC]](https://openlibrary.org/dev/docs/api/read)
 
 # Error [Android]
 
-- [D/tag: onErrorResponse: java.io.IOException: Cleartext HTTP traffic to 192.168.31.113 not permitted](https://stackoverflow.com/questions/45940861/android-8-cleartext-http-traffic-not-permitted)
+- [D/tag: onErrorResponse: java.io.IOException: Cleartext HTTP traffic to 145.178.41.198 not permitted](https://stackoverflow.com/questions/45940861/android-8-cleartext-http-traffic-not-permitted)
 - []()
 
 # Developer's Blogs
