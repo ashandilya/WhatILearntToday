@@ -30,6 +30,7 @@
 - [My Preferred Method of Learning Backend Engineering Technologies(Hussein Nasser)](https://www.youtube.com/watch?v=4NsWnT_-FoE&ab_channel=HusseinNasser)
 - [Make your App Production Ready with Niharika Arora](https://www.youtube.com/watch?v=OuafF5Q_qUg&ab_channel=KotlinKolkata)
 - [Android — RecyclerView and Volley](https://medium.com/@sidhanth/android-recyclerview-and-volley-c6458cc65cd)
+- [Android Modern Image Slider Using ViewPager2 And KenBurnsView | Travel App Concept | Android Studio](https://www.youtube.com/watch?v=cOj4CuIHU1E&ab_channel=ChiragKachhadiya)
 
 - Code Smell: In computer programming, a code smell is any characteristic in the source code of a program that possibly indicates a deeper problem. Determining what is and is not a code smell is subjective, and varies by language, developer, and development methodology.
 
@@ -69,7 +70,7 @@
 # Error [Android]
 
 - [D/tag: onErrorResponse: java.io.IOException: Cleartext HTTP traffic to 145.178.41.198 not permitted](https://stackoverflow.com/questions/45940861/android-8-cleartext-http-traffic-not-permitted)
-- []()
+- [Scrapy Not Installing in Pycharm FIX (2020)](https://www.youtube.com/watch?v=5JwPKGZUiSs&t=29s&ab_channel=chrismahn)
 
 # Developer's Blogs
 
