@@ -81,6 +81,7 @@
 - [Roadmap](https://roadmap.sh/)
 - [Honey Sonwani](https://mshoneysonwani.wordpress.com/)
 - [Rami Shashati(Software engineer, specializing in JavaScript and Vue.js)](https://ramigs.dev/)
+- [Freecodecamp Blog](https://www.freecodecamp.org/news/)
 
 # Software Development Podcasts
 
@@ -108,3 +109,5 @@
 - [Making our Android Studio Apps Reactive with UI Components & Redux](https://netflixtechblog.com/making-our-android-studio-apps-reactive-with-ui-components-redux-5e37aac3b244)
 - [Designing Application for Illiterate and Semi Illiterate Users ( India specific): DOCPORTAL App](https://medium.com/@sangramjit/designing-application-for-illiterate-and-semi-illiterate-users-india-specific-docportal-app-d6a313498799)
 - [Exploring Server-Driven UI](https://medium.com/better-programming/exploring-server-driven-ui-cf67b3da919)
+- [Here’s How to Write a Blog Post Like a Professional](https://www.grammarly.com/blog/how-to-write-a-blog/)
+
