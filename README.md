@@ -31,6 +31,10 @@
 - [Make your App Production Ready with Niharika Arora](https://www.youtube.com/watch?v=OuafF5Q_qUg&ab_channel=KotlinKolkata)
 - [Android — RecyclerView and Volley](https://medium.com/@sidhanth/android-recyclerview-and-volley-c6458cc65cd)
 - [Android Modern Image Slider Using ViewPager2 And KenBurnsView | Travel App Concept | Android Studio](https://www.youtube.com/watch?v=cOj4CuIHU1E&ab_channel=ChiragKachhadiya)
+- [How to define a circle shape in an Android XML drawable file?](https://stackoverflow.com/questions/3185103/how-to-define-a-circle-shape-in-an-android-xml-drawable-file)
+- [Implementing BottomAppBar I: Material Components for Android](https://medium.com/material-design-in-action/implementing-bottomappbar-material-components-for-android-f490c4a01708)
+- [Implementing BottomAppBar II: Menu and Navigation Drawer Control](https://medium.com/material-design-in-action/implementing-bottomappbar-menu-and-navigation-c4f069e579ec)
+- [Implementing BottomAppBar III: Behavior for Android](https://medium.com/material-design-in-action/implementing-bottomappbar-behavior-fbfbc3a30568)
 
 - Code Smell: In computer programming, a code smell is any characteristic in the source code of a program that possibly indicates a deeper problem. Determining what is and is not a code smell is subjective, and varies by language, developer, and development methodology.
 
@@ -83,6 +87,7 @@
 - [Honey Sonwani](https://mshoneysonwani.wordpress.com/)
 - [Rami Shashati(Software engineer, specializing in JavaScript and Vue.js)](https://ramigs.dev/)
 - [Freecodecamp Blog](https://www.freecodecamp.org/news/)
+- [App Snipp(Free Templates, Designs, Ui Kits, themes and Libraries for Android and Flutter UI)](https://appsnipp.com/)
 
 # Software Development Podcasts
 
