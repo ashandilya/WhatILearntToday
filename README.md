@@ -72,6 +72,15 @@
 - [Open Book Library[API DOC]](https://openlibrary.org/dev/docs/api/read)
 - [Color Wheel](https://www.sessions.edu/color-calculator/)
 - [Supabase(The Open Source Firebase Alternative)](https://supabase.io/)
+- [Free Illustrations](https://2.flexiple.com/scale/home)
+- [Overflow(Create Interactive User Flow)](https://overflow.io/)
+
+
+# Software and Programming Updates
+
+- [StackOverFlow Insights](https://insights.stackoverflow.com/survey/2020)
+- [Google Trend](https://trends.google.com/trends/)
+- [TIOBE Index](https://www.tiobe.com/tiobe-index/)
 
 # Error [Android]
 
@@ -117,4 +126,5 @@
 - [Designing Application for Illiterate and Semi Illiterate Users ( India specific): DOCPORTAL App](https://medium.com/@sangramjit/designing-application-for-illiterate-and-semi-illiterate-users-india-specific-docportal-app-d6a313498799)
 - [Exploring Server-Driven UI](https://medium.com/better-programming/exploring-server-driven-ui-cf67b3da919)
 - [Here’s How to Write a Blog Post Like a Professional](https://www.grammarly.com/blog/how-to-write-a-blog/)
+- [Imposter Syndrome In Software Developers: Am I A Fake Developer?](https://www.geeksforgeeks.org/imposter-syndrome-in-software-developers-am-i-a-fake-developer/)
 
