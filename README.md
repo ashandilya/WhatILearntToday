@@ -100,6 +100,7 @@
 - [Rami Shashati(Software engineer, specializing in JavaScript and Vue.js)](https://ramigs.dev/)
 - [Freecodecamp Blog](https://www.freecodecamp.org/news/)
 - [App Snipp(Free Templates, Designs, Ui Kits, themes and Libraries for Android and Flutter UI)](https://appsnipp.com/)
+- [Goobar(Learn building quality software)](https://goobar.io/)
 
 # Software Development Podcasts
 
