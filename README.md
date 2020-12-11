@@ -102,6 +102,7 @@
 - [Freecodecamp Blog](https://www.freecodecamp.org/news/)
 - [App Snipp(Free Templates, Designs, Ui Kits, themes and Libraries for Android and Flutter UI)](https://appsnipp.com/)
 - [Goobar(Learn building quality software)](https://goobar.io/)
+- [Florin Pop(Web Developer)](https://www.florin-pop.com/blog/2019/09/100-days-100-projects/)
 
 # Software Development Podcasts
 
