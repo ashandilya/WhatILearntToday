@@ -77,6 +77,7 @@
 - [Overflow(Create Interactive User Flow)](https://overflow.io/)
 - [Really Good Emails(Emails Templete with Codes)](https://reallygoodemails.com/)
 - [Chaquopy(Python SDK for Android)](https://chaquo.com/chaquopy/)
+- [Vercel(Vercel combines the best developer experience with an obsessive focus on end-user performance. Our platform enables frontend teams to do their best work.)(https://vercel.com/)
 
 
 # Software and Programming Updates
@@ -103,6 +104,7 @@
 - [App Snipp(Free Templates, Designs, Ui Kits, themes and Libraries for Android and Flutter UI)](https://appsnipp.com/)
 - [Goobar(Learn building quality software)](https://goobar.io/)
 - [Florin Pop(Web Developer)](https://www.florin-pop.com/blog/2019/09/100-days-100-projects/)
+- [Aman Mittal(NodeJS Developer)](https://amanhimself.dev/blog)
 
 # Software Development Podcasts
 
