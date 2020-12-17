@@ -36,7 +36,7 @@
 - [Implementing BottomAppBar II: Menu and Navigation Drawer Control](https://medium.com/material-design-in-action/implementing-bottomappbar-menu-and-navigation-c4f069e579ec)
 - [Implementing BottomAppBar III: Behavior for Android](https://medium.com/material-design-in-action/implementing-bottomappbar-behavior-fbfbc3a30568)
 - [How to write technical blog posts - talk by Quincy Larson](https://www.youtube.com/watch?v=YODPgBadj80&ab_channel=freeCodeCampTalks)
-
+- [How To Download GENYMOTION For ANDROID STUDIO | Install Virtual Device](https://www.youtube.com/watch?v=9d3ucMIK5H8&ab_channel=TechizVibe)
 - Code Smell: In computer programming, a code smell is any characteristic in the source code of a program that possibly indicates a deeper problem. Determining what is and is not a code smell is subjective, and varies by language, developer, and development methodology.
 
 - [Top Questions(Stackoverflow)](https://stackoverflow.com/?tab=hot)
