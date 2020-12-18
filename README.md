@@ -79,6 +79,10 @@
 - [Chaquopy(Python SDK for Android)](https://chaquo.com/chaquopy/)
 - [Vercel(Vercel combines the best developer experience with an obsessive focus on end-user performance. Our platform enables frontend teams to do their best work.)(https://vercel.com/)
 
+- [Schemecolor(Download Color Schemes)](https://www.schemecolor.com/)
+- [ColorHex(Color Hex Color Codes)](https://www.color-hex.com/)
+- [Colorpalettes](https://colorpalettes.net/)
+
 
 # Software and Programming Updates
 
