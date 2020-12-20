@@ -37,6 +37,7 @@
 - [Implementing BottomAppBar III: Behavior for Android](https://medium.com/material-design-in-action/implementing-bottomappbar-behavior-fbfbc3a30568)
 - [How to write technical blog posts - talk by Quincy Larson](https://www.youtube.com/watch?v=YODPgBadj80&ab_channel=freeCodeCampTalks)
 - [How To Download GENYMOTION For ANDROID STUDIO | Install Virtual Device](https://www.youtube.com/watch?v=9d3ucMIK5H8&ab_channel=TechizVibe)
+- [Technical Writing for Beginners – An A-Z Guide to Tech Blogging Basics](https://amarachiazubuike.com/technical-writing-for-beginners-an-a-z-guide-to-tech-blogging-basics-ckiw8qxlm0msb44s17awydsor)
 - Code Smell: In computer programming, a code smell is any characteristic in the source code of a program that possibly indicates a deeper problem. Determining what is and is not a code smell is subjective, and varies by language, developer, and development methodology.
 
 - [Top Questions(Stackoverflow)](https://stackoverflow.com/?tab=hot)
@@ -109,6 +110,8 @@
 - [Goobar(Learn building quality software)](https://goobar.io/)
 - [Florin Pop(Web Developer)](https://www.florin-pop.com/blog/2019/09/100-days-100-projects/)
 - [Aman Mittal(NodeJS Developer)](https://amanhimself.dev/blog)
+- [Kayshik Gopal(Android Dev)](https://blog.jkl.gg/)
+- [Android Libraries](http://android-libraries.com/)
 
 # Software Development Podcasts
 
