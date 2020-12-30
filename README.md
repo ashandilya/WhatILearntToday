@@ -41,6 +41,7 @@
 - [How to make Rest Api for android app using online server 000webhost PHP step by step guide](https://www.youtube.com/watch?v=HaiCaolhATY&ab_channel=CodeHouse)
 - [Php & MySql live hosting free in 000webhost](https://www.youtube.com/watch?v=3Qkn9ju1Sj0&ab_channel=FarukAhmed)
 - [Escape double quote character in XML](https://stackoverflow.com/questions/1222367/escape-double-quote-character-in-xml)
+- [Share Intent and Open URL from Recycler View](https://medium.com/@PreethiPKishore/share-intent-and-open-url-from-recycler-view-d64982015ab2)
 - [Android file upload to Server | Android Image Upload to Server using Volley | Volley Library](https://www.youtube.com/watch?v=j6nOOK6iDE0&ab_channel=MdJamal)
 - Code Smell: In computer programming, a code smell is any characteristic in the source code of a program that possibly indicates a deeper problem. Determining what is and is not a code smell is subjective, and varies by language, developer, and development methodology.
 
