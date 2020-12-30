@@ -89,6 +89,9 @@
 - [ColorHex(Color Hex Color Codes)](https://www.color-hex.com/)
 - [Colorpalettes](https://colorpalettes.net/)
 - [Carbon(Create and share beautiful images of your source code. Start typing or drop a file into the text area to get started.)](https://carbon.now.sh/)
+- [Google Play Feature Graphic Inspiration](https://hotpot.ai/templates/google-play-feature-graphic/9)
+- [Android Mockups for Free](https://smartmockups.com/)
+- [Privacy Policy Generator](https://www.privacypolicygenerator.info/)
 
 
 # Software and Programming Updates
