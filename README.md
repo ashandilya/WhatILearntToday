@@ -93,6 +93,7 @@
 - [Google Play Feature Graphic Inspiration](https://hotpot.ai/templates/google-play-feature-graphic/9)
 - [Android Mockups for Free](https://smartmockups.com/)
 - [Privacy Policy Generator](https://www.privacypolicygenerator.info/)
+- [UserTesting(Real-time feedback. From real customers. Wherever you work.)](https://www.usertesting.com/)
 
 
 # Software and Programming Updates
