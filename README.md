@@ -44,6 +44,8 @@
 - [Share Intent and Open URL from Recycler View](https://medium.com/@PreethiPKishore/share-intent-and-open-url-from-recycler-view-d64982015ab2)
 - [Android file upload to Server | Android Image Upload to Server using Volley | Volley Library](https://www.youtube.com/watch?v=j6nOOK6iDE0&ab_channel=MdJamal)
 - [Principle behind choosing color contrast for an Android App User Interface](https://support.google.com/accessibility/android/answer/7158390)
+- [What is Proguard and how to use it to reduce APK size in Android?](https://www.youtube.com/watch?v=yduedsaxfDw&ab_channel=MindOrks)
+- [How to Find the Stinky parts of your Code](https://mcsee.hashnode.dev/how-to-find-the-stinky-parts-of-your-code)
 - Code Smell: In computer programming, a code smell is any characteristic in the source code of a program that possibly indicates a deeper problem. Determining what is and is not a code smell is subjective, and varies by language, developer, and development methodology.
 
 - [Top Questions(Stackoverflow)](https://stackoverflow.com/?tab=hot)
