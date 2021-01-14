@@ -46,6 +46,11 @@
 - [Principle behind choosing color contrast for an Android App User Interface](https://support.google.com/accessibility/android/answer/7158390)
 - [What is Proguard and how to use it to reduce APK size in Android?](https://www.youtube.com/watch?v=yduedsaxfDw&ab_channel=MindOrks)
 - [How to Find the Stinky parts of your Code](https://mcsee.hashnode.dev/how-to-find-the-stinky-parts-of-your-code)
+- [Android Rate App using Google In-App Review API](https://www.androidhive.info/2020/09/android-rate-app-using-google-app-review-api/)
+- [Google Play In-App Review API](https://developer.android.com/guide/playcore/in-app-review)
+- [Create Share Button and Share App link in Android Studio || Android App Tutorial](https://www.youtube.com/watch?v=e0fqpn6Uo4U&ab_channel=MySpecialTechSupport)
+- [Material Dialog Design](https://material.io/components/dialogs/android)
+- 
 - Code Smell: In computer programming, a code smell is any characteristic in the source code of a program that possibly indicates a deeper problem. Determining what is and is not a code smell is subjective, and varies by language, developer, and development methodology.
 
 - [Top Questions(Stackoverflow)](https://stackoverflow.com/?tab=hot)
@@ -126,6 +131,10 @@
 - [Aman Mittal(NodeJS Developer)](https://amanhimself.dev/blog)
 - [Kayshik Gopal(Android Dev)](https://blog.jkl.gg/)
 - [Android Libraries](http://android-libraries.com/)
+- [raywenderlich.com(Android/IOS Guides)](https://www.raywenderlich.com/)
+- [Handy Opinion(Android Guides)](https://handyopinion.com/)
+- [vladsonkin.com(Android Guides)](https://vladsonkin.com/)
+
 
 # Software Development Podcasts
 
