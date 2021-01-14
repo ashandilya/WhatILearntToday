@@ -50,6 +50,7 @@
 - [Google Play In-App Review API](https://developer.android.com/guide/playcore/in-app-review)
 - [Create Share Button and Share App link in Android Studio || Android App Tutorial](https://www.youtube.com/watch?v=e0fqpn6Uo4U&ab_channel=MySpecialTechSupport)
 - [Material Dialog Design](https://material.io/components/dialogs/android)
+- [How to implement in app update in android](https://www.youtube.com/watch?v=jErHVk6x2jY&t=28s&ab_channel=TheEasyLearnAndroid)
 - 
 - Code Smell: In computer programming, a code smell is any characteristic in the source code of a program that possibly indicates a deeper problem. Determining what is and is not a code smell is subjective, and varies by language, developer, and development methodology.
 
