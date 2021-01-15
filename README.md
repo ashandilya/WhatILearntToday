@@ -135,6 +135,7 @@
 - [raywenderlich.com(Android/IOS Guides)](https://www.raywenderlich.com/)
 - [Handy Opinion(Android Guides)](https://handyopinion.com/)
 - [vladsonkin.com(Android Guides)](https://vladsonkin.com/)
+- [Engineering Brain](https://tanzimsaqib.com/)
 
 
 # Software Development Podcasts
