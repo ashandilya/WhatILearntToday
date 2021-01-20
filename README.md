@@ -1,7 +1,9 @@
 <!--<a href="url"><img src="https://i.ibb.co/j6RKXz1/photo-1457369804613-52c61a468e7d.jpg" align="center" height="250" ></a>-->
 
+
+![Title Image](https://i.ibb.co/DDVJqwg/EVERYTHING.png)
+
 <br>
-- ![Title Image](https://i.ibb.co/DDVJqwg/EVERYTHING.png)
 
 - [What is JSON and why would I use it?](https://stackoverflow.com/questions/383692/what-is-json-and-why-would-i-use-it)
 
