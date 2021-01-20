@@ -103,6 +103,104 @@
 - [AirBnb Design](https://airbnb.design/)
 - [Apps Mockup Tutorials()](https://help.mockplus.com/p/140)
 
+- [How to plan your Java learning path?](https://www.notion.so/How-to-plan-your-Java-learning-path-d84675357de4466d80b4e96af72e220b)
+
+- [What’s The Best Social Media Account For Writers?](https://www.notion.so/What-s-The-Best-Social-Media-Account-For-Writers-3f2eca6313354c0ca704b370194b3bb6)
+
+- [Is Your Writing Lacking Ikigai?](https://www.notion.so/Is-Your-Writing-Lacking-Ikigai-1c5f7854d8da404e8ee1a89b1ea581c6)
+
+- [3 Things You Need To Create Your Ideal Client (Or Reader) Profile](https://www.notion.so/3-Things-You-Need-To-Create-Your-Ideal-Client-Or-Reader-Profile-53c6ae2f508f43b3892ef6d47ee1c8bc)
+
+- [Great Talks Most People Have Never Heard](https://www.notion.so/Great-Talks-Most-People-Have-Never-Heard-42a551533af5426e9f27a1379857413d)
+
+- [A Journey on the Information Highway” by Evan Williams](https://www.notion.so/A-Journey-on-the-Information-Highway-by-Evan-Williams-06c56a9ec36443be949df7d122d19448)
+
+- [3-2-1: On the lessons of history, imperfect starts, and critiquing your own work](https://www.notion.so/3-2-1-On-the-lessons-of-history-imperfect-starts-and-critiquing-your-own-work-8a9b6a4ef33e49e19446db3c259e52cc)
+
+- [Freelancing, content writing & LinkedIn ft. Shreya Pattar](https://www.notion.so/Freelancing-content-writing-LinkedIn-ft-Shreya-Pattar-05b62f0429534de487082d24ac8384e2)
+
+- [Twitter Growth Hacks 2020 || Hindi](https://www.notion.so/Twitter-Growth-Hacks-2020-Hindi-b5a2d3b29a674c6c9bc84b51e6b4cbca)
+
+- [OMAR ITANI BLOG](https://www.notion.so/OMAR-ITANI-BLOG-28adc3518bcc488ea83f66ac918b345b)
+
+- [8 Must-Have Apps Every Writer Needs to Build a Writing System and Become Prolific](https://www.notion.so/8-Must-Have-Apps-Every-Writer-Needs-to-Build-a-Writing-System-and-Become-Prolific-53585f728048469197b8660b03fb8466)
+
+- [What Is An API?](https://www.notion.so/What-Is-An-API-0f7ba9087a9a4aeb96486ee20e8154e7)
+
+- [What Is Back-End?](https://www.notion.so/What-Is-Back-End-325c5409e732433fa2a41dc236d317c5)
+
+- [Backend Development explained in 2 minutes](https://www.notion.so/Backend-Development-explained-in-2-minutes-7e123eae9fde429897a29b928f36a8bf)
+
+- [How to Become a Good Backend Engineer (Fundamentals)](https://www.notion.so/How-to-Become-a-Good-Backend-Engineer-Fundamentals-08fb21b65bbd4b91a20524f59dfc35ec)
+
+- [Frontend Development explained in 2 minutes](https://www.notion.so/Frontend-Development-explained-in-2-minutes-018e697fee4a489a85fb069da2448e4b)
+
+- [James Clear On Systems - Business Insider](https://www.notion.so/James-Clear-On-Systems-Business-Insider-50468990c7ee4589979cb9194494a535)
+
+- [Why Cryonics Makes Sense — Wait But Why](https://www.notion.so/Why-Cryonics-Makes-Sense-Wait-But-Why-52155cf9126d40c3af210d2c5ab48651)
+
+- [Personal Blog of Paradologue](https://www.notion.so/Personal-Blog-of-Paradologue-343061186f9e46629c77a4dd961e14ce)
+
+- [Watch "Suzy Welch on 10-10-10" on YouTube](https://www.notion.so/Watch-Suzy-Welch-on-10-10-10-on-YouTube-6c6bf0b13160434598dce39cc2feec10)
+
+- [How to Write a Git Commit Message](https://www.notion.so/How-to-Write-a-Git-Commit-Message-de41ccd5bb8843d482761af080d59349)
+
+- [Become a Professional Programmer](https://www.notion.so/Become-a-Professional-Programmer-38632999a7144fe7b5b16871a54d4051)
+
+- [Coding Puzzle](https://www.notion.so/Coding-Puzzle-21d8b4fa2f2e45ba88d8e047c4f340c6)
+
+- [Algorithms Unlocked(Book)](https://www.notion.so/Algorithms-Unlocked-Book-3243c6bdc9d3446cacdc6fb5aecaa8a3)
+
+- [Netflix Android and iOS Studio Apps — now powered by Kotlin Multiplatform](https://www.notion.so/Netflix-Android-and-iOS-Studio-Apps-now-powered-by-Kotlin-Multiplatform-7a5a5269bc1045398687e167a85a0fef)
+
+- [MindorksOpenSource](https://www.notion.so/MindorksOpenSource-5eb9a3cbfa8a4a5c8ca519d944707be5)
+
+- [Floating Action Button (FAB) in Android with Example](https://www.notion.so/Floating-Action-Button-FAB-in-Android-with-Example-f20abd325ddb4f08aaeec0229335ac4d)
+
+- [How to add text to floating action button?](https://www.notion.so/How-to-add-text-to-floating-action-button-64f7195f35f74957849a657877620f49)
+
+- [JSON Parsing Tutorial With Example In Android Studio [Step by Step] | Abhi Android](https://www.notion.so/JSON-Parsing-Tutorial-With-Example-In-Android-Studio-Step-by-Step-Abhi-Android-dd5a86e76df94753bcfbc5bcca925b18)
+
+- [SEO tips to make your stories discoverable and grow your readership](https://www.notion.so/SEO-tips-to-make-your-stories-discoverable-and-grow-your-readership-7c4add1d0d1643e585a133ad5f2a5102)
+
+- [Best Practices for Writing On Medium](https://www.notion.so/Best-Practices-for-Writing-On-Medium-13abbbc683604da88fea52b0a01338f0)
+
+- [How To Learn Android Development?](https://www.notion.so/How-To-Learn-Android-Development-f402646c249049238f9e608d1dcb6497)
+
+- [How to Create Multiple Tabs In a Single Screen Using Android Tab Layout](https://www.notion.so/How-to-Create-Multiple-Tabs-In-a-Single-Screen-Using-Android-Tab-Layout-e5e3c08e4fa24fc7b0dd8c8ac5bab6b4)
+
+- [Is there an easy way to strike through text in an app widget?](https://www.notion.so/Is-there-an-easy-way-to-strike-through-text-in-an-app-widget-027d6428067b4b359505a9cae2d24968)
+
+- [Refreshing data in RecyclerView and keeping its scroll position](https://www.notion.so/Refreshing-data-in-RecyclerView-and-keeping-its-scroll-position-a22eba7daa664925a3c115bfca3deee6)
+
+- [Paginated Recyclerview with progress bar in Android](https://www.notion.so/Paginated-Recyclerview-with-progress-bar-in-Android-2227e4af75e84212a63b58a293bae44d)
+
+- [Using threads and ProgressDialog](https://www.notion.so/Using-threads-and-ProgressDialog-fc598b4fe3cb4d8aa248746135c52c7d)
+
+- [Cancel ProgressDialog and stop thread](https://www.notion.so/Cancel-ProgressDialog-and-stop-thread-69fe9ae75de9408abe10543ffcf57b72)
+
+- [Android Capture Image From Camera Upload to Server Using PHP MySQL](https://www.notion.so/Android-Capture-Image-From-Camera-Upload-to-Server-Using-PHP-MySQL-42e28ce876f349aa805e8f9f16dec019)
+
+- [How can i make Intent From Activity to Fragment in android?](https://www.notion.so/How-can-i-make-Intent-From-Activity-to-Fragment-in-android-4f7af26684d949f9a6d9f3c4dd2489b3)
+
+- [Custom Loading Alert Dialog](https://www.notion.so/Custom-Loading-Alert-Dialog-14763d04bd1f45ae813be030d0aa94ee)
+
+- [[Image Uploading App with Firebase Cloud Storage + Firebase Realtime Database - Android Studio Tutorial](https://www.youtube.com/watch?v=MfCiiTEwt3g&list=PLrnPJCHvNZuB_7nB5QD-4bNg6tpdEUImQ)](https://www.notion.so/Image-Uploading-App-with-Firebase-Cloud-Storage-Firebase-Realtime-Database-Android-Studio-Tutori-fd0acff4d55f4eafb232ef45cd676834)
+
+- [How to Implement Progress Dialog in Android Studio](https://www.notion.so/How-to-Implement-Progress-Dialog-in-Android-Studio-db1ba811bd734b69898667942351a818)
+
+- [Bottom Navigation View With Fragments (No fragment re-creation).](https://www.notion.so/Bottom-Navigation-View-With-Fragments-No-fragment-re-creation-f26dc741249a494e819ef0efe37da1a0)
+
+- [Dynamic Layouts using the Fragment Manager](https://www.notion.so/Dynamic-Layouts-using-the-Fragment-Manager-4eb1fe5e92034833bdc4f9f9867c69cd)
+
+- [Document, Don’t Create: Creating Content That Builds Your Personal Brand](https://www.notion.so/Document-Don-t-Create-Creating-Content-That-Builds-Your-Personal-Brand-1b8a67b1b52c47dabea363cb7b7d66d5)
+
+- [How to Choose the Perfect Featured Image for Your Medium Article](https://www.notion.so/How-to-Choose-the-Perfect-Featured-Image-for-Your-Medium-Article-8ebf80eabc3e4bd3ad59d94459caa512)
+
+- [Adding Images to markdown files](https://www.notion.so/Adding-Images-to-markdown-files-acc3bd4b88ef4851a8773f8ed248376c)
+
+- [How to install Android Applications in Mobile Phone without USB Cables using Android Studio](https://www.notion.so/How-to-install-Android-Applications-in-Mobile-Phone-without-USB-Cables-using-Android-Studio-6bd08ab9d21445f79dadb8298961df99)
+
 
 # Tools
 
