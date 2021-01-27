@@ -251,6 +251,7 @@
 - [Privacy Policy Generator](https://www.privacypolicygenerator.info/)
 - [UserTesting(Real-time feedback. From real customers. Wherever you work.)](https://www.usertesting.com/)
 - [Bugzilla(It is a server software designed to help you manage software development.)](https://www.bugzilla.org/)
+- [Free Resources(Mockups/Font/Illstration)](https://freebies.fluxes.com/)
 
 
 # Software and Programming Updates
