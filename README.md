@@ -10,6 +10,11 @@
 - <b>Code with lint checks:</b> In addition to ensuring your app meets its functional requirements by building tests, it's important that you also ensure your code has no structural problems by running the code through lint. The lint tool helps find poorly structured code that can impact the reliability and efficiency of your Android apps and make your code harder to maintain.<br>
           For example, if your XML resource files contain unused namespaces, this takes up space and incurs unnecessary processing. Other structural issues, such as use of deprecated elements or API calls that are not supported by the target API versions, might lead to code failing to run correctly. Lint can help you clean up these issues, [Know More](https://developer.android.com/studio/write/lint.html).
 
+
+### Errors
+
+- [Solved Error: MySQL shutdown unexpectedly](https://www.youtube.com/watch?v=ANdFThQIilQ&feature=emb_logo&ab_channel=ProgSchools-ProgrammingLanguageTutorials)
+
 - [What is JSON and why would I use it?](https://stackoverflow.com/questions/383692/what-is-json-and-why-would-i-use-it)
 
 - [What is JSON: the 3 minute JSON Tutorial](https://secretgeek.net/json_3mins)
